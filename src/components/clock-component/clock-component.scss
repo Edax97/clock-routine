@@ -1,0 +1,8 @@
+#clock-rutine {
+  @include media-breakpoint-up(md) {
+    width: 540px;
+  }
+  @include media-breakpoint-up(lg) {
+    width: 840px;
+  }
+}
