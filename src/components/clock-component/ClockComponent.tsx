@@ -23,7 +23,7 @@ export const ClockComponent = () => {
       <div className="pt-3">
         <TimerControlsContainer />
       </div>
-      <div className="pt-3">AUTHOR</div>
+      <div className="pt-3">Edmar Campos 2022</div>
     </div>
   );
 };
